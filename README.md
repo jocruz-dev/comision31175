@@ -35,3 +35,5 @@
 - Conocer patrones de componentes
 
 ### EJERCICIO Crear CartWidget y ItemListContainer
+
+Amend test
