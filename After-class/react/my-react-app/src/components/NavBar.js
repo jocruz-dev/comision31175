@@ -1,9 +1,28 @@
+//import Button from 'react-bootstrap/Button';
+import Row from 'react-bootstrap/Row'
+import Col from 'react-bootstrap/Col'
+import Container from 'react-bootstrap/Container'
+import NavBarTest from './NavBarTest';
+
 
 
 function NavBar() {
   return (
     <div>
-      <h1>NAVBAR</h1>
+      {/* <Button>CLICK</Button> */}
+      <Container className="fluid">
+          <NavBarTest></NavBarTest>
+          <Row>
+            <Col>1 of 3</Col>
+            <Col xs={6}>2 of 3 (wider)</Col>
+            <Col>3 of 3</Col>
+          </Row>
+          <Row>
+            <Col>1 of 3</Col>
+            <Col xs={5}>2 of 3 (wider)</Col>
+            <Col>3 of 3</Col>
+          </Row>
+      </Container>
     </div>
   );
 }
