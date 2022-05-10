@@ -29,11 +29,36 @@
 
 ------
 
-# CLase4 Componentes 1
+# CLase 4 Componentes 1
 
 - Entender el uso de los componentes
 - Conocer patrones de componentes
 
 ### EJERCICIO Crear CartWidget y ItemListContainer
 
-Amend test
+------
+
+# CLase 5 Componentes 2
+
+- Entender el uso de los ciclos de vida
+- Aplicar uso de propiedades en los ciclos de vida
+
+### EJERCICIO Click Tracker componente que registre la cantidad de clicks
+
+------
+
+# CLase 6 Promises asincronia y MAP
+
+- Conocer el uso de la API Promise
+- Aplicar el metodo MAP para rendering de listas
+
+### EJERCICIO Mock async service
+
+------
+
+# CLase 7 Consumiendo APIs
+
+- Identificar paradigmas de intercambio de datos
+- Consumir recursos via API
+
+### EJERCICIO Hacer una consulta con fetch
